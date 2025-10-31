@@ -5,7 +5,13 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+## 📸 App Screenshots
 
+<p align="center">
+  <img src="screenshot/dashboard.png" width="250">
+  <img src="screenshot/transfer.png" width="250">
+  <img src="screenshot/spender.png" width="250">
+</p>
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
